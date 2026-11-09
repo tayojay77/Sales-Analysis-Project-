@@ -1,4 +1,4 @@
-# XYZ-Luxury-Company-Sales-Analysis-Project-
+# Sales-Analysis-Project-
 
 ## Introduction 
 
