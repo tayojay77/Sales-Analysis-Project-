@@ -64,7 +64,7 @@ The dataset has 7 columns with 1500 records which consists (ProductID, Category,
 
 The following Power BI were Incorporated 
 - Data cleaning
-- Power query editor 
+- Power query 
 - Dax
 - Slicer
 
